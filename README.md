@@ -1,5 +1,5 @@
 # packert
-packert is a multithreaded python packet generation tool
+packert is a multithreaded python packet generation tool made for linux
 
 # Packert
 
@@ -24,7 +24,7 @@ Usage
 To use Packert, run the following command:
 
 
-python packert.py
+sudo python packert.py
 
 
 You will be prompted to enter the following information:
