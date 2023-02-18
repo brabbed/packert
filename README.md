@@ -1,11 +1,11 @@
 # packert
 packert is a multithreaded python packet generation tool
 
-#Packert
+# Packert
 
 Packert is a Python program that generates random packets and sends them to a specified server. The program allows the user to specify the number of threads to use, the number of packets per thread, and the delay between packets.
 
-#Requirements
+# Requirements
 
 Python 3.x
 
